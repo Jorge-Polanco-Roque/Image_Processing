@@ -12,4 +12,4 @@
   Contraste imagen : skimage (Python)
 
 * Modelling : Chucho/Todos (1 semana – primer ejercicio)
-  CNN (activation function: relu)  tf.keras (Python)
+  CNN (activation function: relu) : tf.keras (Python)
